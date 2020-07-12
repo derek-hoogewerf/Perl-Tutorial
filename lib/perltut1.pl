@@ -1,3 +1,4 @@
+#!/perl/bin/perl
 use strict;
 use warnings;
 use diagnostics;
@@ -12,3 +13,5 @@ my ($age, $street) = (20, '123 Main Street');
 my $my_info = "$name lives on \"$street\"\n";
 
 $my_info = qq{$name lives on "$street"\n};
+
+print "$my_info"
