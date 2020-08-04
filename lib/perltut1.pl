@@ -1,5 +1,5 @@
 
-use strict;
+#use strict;
 use warnings;
 use diagnostics;
 
@@ -16,13 +16,13 @@ $my_info = qq{$name lives on "$street"\n};
 
 print "$my_info";
 
-my $bunch_of_info<<"END";
+my $bunch_of_info << "END";
 This is a 
 bunch of information
 on multiple lines.
 END
 
-say $bunch_of_info;
+say "$bunch_of_info";
 
 my $big_int = 18446744073709551615;
 printf ("%u \n", $big_int + 1);
@@ -30,9 +30,13 @@ printf ("%u \n", $big_int + 1);
 my $big_float = .10000000000000000001;
 printf ("%.16f \n", $big_float + $big_float);
 
-#math functions
-say "5 ** 4 = ", 5**4;
+my $first = 1;
+my $second = 2;
+($first, $second) = ($second, $first);
+say "$first $second"
 
+#math functions
+say "5 ** 4 = ", 5 ** 4;
 say "EXP 1 =", exp 1;
 say "HEX 10 =", hex 10;
 say "OCT 10 =", oct 10;
