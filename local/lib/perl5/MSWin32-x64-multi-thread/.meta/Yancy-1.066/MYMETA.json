@@ -1,0 +1,215 @@
+{
+   "abstract" : "The Best Web Framework Deserves the Best CMS",
+   "author" : [
+      "Doug Bell <preaction@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 6.012, CPAN::Meta::Converter version 2.150010",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : 2
+   },
+   "name" : "Yancy",
+   "no_index" : {
+      "directory" : [
+         "eg",
+         "examples",
+         "inc",
+         "share",
+         "t",
+         "xt"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0",
+            "File::ShareDir::Install" : "0.06"
+         },
+         "suggests" : {
+            "JSON::PP" : "2.27300"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Class::Method::Modifiers" : "0",
+            "Digest" : "0",
+            "Exporter" : "0",
+            "File::Spec::Functions" : "0",
+            "FindBin" : "0",
+            "JSON::Validator" : "4",
+            "Mojolicious" : "8.31",
+            "Mojolicious::Plugin::I18N" : "1.6",
+            "Mojolicious::Plugin::OpenAPI" : "2.12",
+            "Role::Tiny" : "2.000001",
+            "Scalar::Util" : "0",
+            "Sys::Hostname" : "0",
+            "Text::Balanced" : "0",
+            "perl" : "5.016"
+         }
+      },
+      "test" : {
+         "recommends" : {
+            "CPAN::Meta" : "2.120900"
+         },
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0",
+            "File::Spec" : "0",
+            "File::Temp" : "0.2307",
+            "IO::Handle" : "0",
+            "IPC::Open3" : "0",
+            "Test::More" : "1.001005"
+         }
+      }
+   },
+   "provides" : {
+      "Mojolicious::Plugin::Yancy" : {
+         "file" : "lib/Mojolicious/Plugin/Yancy.pm",
+         "version" : "1.066"
+      },
+      "Yancy" : {
+         "file" : "lib/Yancy.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Backend::Dbic" : {
+         "file" : "lib/Yancy/Backend/Dbic.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Backend::Mysql" : {
+         "file" : "lib/Yancy/Backend/Mysql.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Backend::Pg" : {
+         "file" : "lib/Yancy/Backend/Pg.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Backend::Role::MojoAsync" : {
+         "file" : "lib/Yancy/Backend/Role/MojoAsync.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Backend::Role::Relational" : {
+         "file" : "lib/Yancy/Backend/Role/Relational.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Backend::Role::Sync" : {
+         "file" : "lib/Yancy/Backend/Role/Sync.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Backend::Sqlite" : {
+         "file" : "lib/Yancy/Backend/Sqlite.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Command::backend" : {
+         "file" : "lib/Yancy/Command/backend.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Command::backend::copy" : {
+         "file" : "lib/Yancy/Command/backend/copy.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Controller::Yancy" : {
+         "file" : "lib/Yancy/Controller/Yancy.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Controller::Yancy::API" : {
+         "file" : "lib/Yancy/Controller/Yancy/API.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Controller::Yancy::MultiTenant" : {
+         "file" : "lib/Yancy/Controller/Yancy/MultiTenant.pm",
+         "version" : "1.066"
+      },
+      "Yancy::I18N" : {
+         "file" : "lib/Yancy/I18N.pm",
+         "version" : "1.066"
+      },
+      "Yancy::I18N::en" : {
+         "file" : "lib/Yancy/I18N/en.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Plugin::Auth" : {
+         "file" : "lib/Yancy/Plugin/Auth.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Plugin::Auth::Basic" : {
+         "file" : "lib/Yancy/Plugin/Auth/Basic.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Plugin::Auth::Github" : {
+         "file" : "lib/Yancy/Plugin/Auth/Github.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Plugin::Auth::OAuth2" : {
+         "file" : "lib/Yancy/Plugin/Auth/OAuth2.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Plugin::Auth::Password" : {
+         "file" : "lib/Yancy/Plugin/Auth/Password.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Plugin::Auth::Role::RequireUser" : {
+         "file" : "lib/Yancy/Plugin/Auth/Role/RequireUser.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Plugin::Auth::Token" : {
+         "file" : "lib/Yancy/Plugin/Auth/Token.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Plugin::Editor" : {
+         "file" : "lib/Yancy/Plugin/Editor.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Plugin::File" : {
+         "file" : "lib/Yancy/Plugin/File.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Plugin::Form" : {
+         "file" : "lib/Yancy/Plugin/Form.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Plugin::Form::Bootstrap4" : {
+         "file" : "lib/Yancy/Plugin/Form/Bootstrap4.pm",
+         "version" : "1.066"
+      },
+      "Yancy::Util" : {
+         "file" : "lib/Yancy/Util.pm",
+         "version" : "1.066"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/preaction/Yancy/issues"
+      },
+      "homepage" : "http://preaction.me/yancy/",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/preaction/Yancy.git",
+         "web" : "https://github.com/preaction/Yancy"
+      },
+      "x_IRC" : "irc://irc.freenode.org/#mojo-yancy"
+   },
+   "version" : "1.066",
+   "x_authority" : "cpan:PREACTION",
+   "x_contributors" : [
+      "Boris Däppen <bdaeppen.perl@gmail.com>",
+      "Ed J <mohawk2@users.noreply.github.com>",
+      "Erik Johansen <uniejo@users.noreply.github.com>",
+      "Josh Rabinowitz <joshr@joshr.com>",
+      "Mohammad S Anwar <mohammad.anwar@yahoo.com>",
+      "Pavel Serikov <pavelsr@cpan.org>",
+      "Rajesh Mallah <mallah.rajesh@gmail.com>",
+      "William Lindley <wlindley@wlindley.com>",
+      "Wojtek Bażant <wojciech.bazant+ebi@gmail.com>"
+   ],
+   "x_generated_by_perl" : "v5.28.0",
+   "x_serialization_backend" : "JSON::PP version 4.04"
+}

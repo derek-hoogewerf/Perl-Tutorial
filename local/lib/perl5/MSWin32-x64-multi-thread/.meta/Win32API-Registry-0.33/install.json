@@ -1,0 +1,1 @@
+{"pathname":"C/CH/CHORNY/Win32API-Registry-0.33.tar.gz","name":"Win32API::Registry","version":0.33,"dist":"Win32API-Registry-0.33","target":"Win32API::Registry","provides":{"Win32API::Registry":{"file":"Registry.pm","version":0.33}}}

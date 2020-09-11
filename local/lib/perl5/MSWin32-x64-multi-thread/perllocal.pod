@@ -1,0 +1,1100 @@
+=head2 Wed Sep  9 10:19:12 2020: C<Module> L<DBI|DBI>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.643>
+
+=item *
+
+C<EXE_FILES: dbilogstrip dbiprof dbiproxy>
+
+=back
+
+=head2 Wed Sep  9 10:19:22 2020: C<Module> L<DBD::Pg|DBD::Pg>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.14.2>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:19:26 2020: C<Module> L<Clone::Choose|Clone::Choose>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.010>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:19:28 2020: C<Module> L<Hash::Merge|Hash::Merge>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.302>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:19:31 2020: C<Module> L<Sub::Quote|Sub::Quote>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.006006>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:19:34 2020: C<Module> L<Class::Method::Modifiers|Class::Method::Modifiers>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:19:39 2020: C<Module> L<ExtUtils::PL2Bat|ExtUtils::PL2Bat>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.003>
+
+=item *
+
+C<EXE_FILES: script/pl2bat.pl>
+
+=back
+
+=head2 Wed Sep  9 10:19:44 2020: C<Module> L<Role::Tiny|Role::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.001004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:19:46 2020: C<Module> L<Moo|Moo>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.004000>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:19:51 2020: C<Module> L<Test::Deep|Test::Deep>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.130>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:19:54 2020: C<Module> L<MRO::Compat|MRO::Compat>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:19:56 2020: C<Module> L<SQL::Abstract|SQL::Abstract>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.87>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:20:04 2020: C<Module> L<Mojolicious|Mojolicious>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 8.58>
+
+=item *
+
+C<EXE_FILES: script/hypnotoad script/mojo script/morbo>
+
+=back
+
+=head2 Wed Sep  9 10:20:07 2020: C<Module> L<Mojo::Pg|Mojo::Pg>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:20:13 2020: C<Module> L<Dist::CheckConflicts|Dist::CheckConflicts>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:20:21 2020: C<Module> L<File::ShareDir::Install|File::ShareDir::Install>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:20:26 2020: C<Module> L<Eval::Closure|Eval::Closure>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:20:31 2020: C<Module> L<Class::Data::Inheritable|Class::Data::Inheritable>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:20:34 2020: C<Module> L<Devel::StackTrace|Devel::StackTrace>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:20:36 2020: C<Module> L<Exception::Class|Exception::Class>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.44>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:20:38 2020: C<Module> L<Params::ValidationCompiler|Params::ValidationCompiler>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:20:47 2020: C<Module> L<Variable::Magic|Variable::Magic>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.62>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:20:50 2020: C<Module> L<Try::Tiny|Try::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:20:52 2020: C<Module> L<Module::Implementation|Module::Implementation>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:20:54 2020: C<Module> L<Sub::Exporter::Progressive|Sub::Exporter::Progressive>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.001013>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:20:56 2020: C<Module> L<B::Hooks::EndOfScope|B::Hooks::EndOfScope>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:21:04 2020: C<Module> L<Package::Stash::XS|Package::Stash::XS>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.29>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:21:06 2020: C<Module> L<Package::Stash|Package::Stash>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.38>
+
+=item *
+
+C<EXE_FILES: bin/package-stash-conflicts>
+
+=back
+
+=head2 Wed Sep  9 10:21:08 2020: C<Module> L<namespace::clean|namespace::clean>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:21:12 2020: C<Module> L<Sub::Identify|Sub::Identify>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:21:13 2020: C<Module> L<namespace::autoclean|namespace::autoclean>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.29>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:21:16 2020: C<Module> L<Class::Inspector|Class::Inspector>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.36>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:21:18 2020: C<Module> L<File::ShareDir|File::ShareDir>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.116>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:21:22 2020: C<Module> L<Test::Fatal|Test::Fatal>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.016>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:21:26 2020: C<Module> L<XString|XString>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:21:29 2020: C<Module> L<Specio|Specio>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.46>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:21:53 2020: C<Module> L<DateTime::Locale|DateTime::Locale>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.28>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:21:58 2020: C<Module> L<Class::Singleton|Class::Singleton>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.5>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:22:04 2020: C<Module> L<Win32::WinError|Win32::WinError>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:22:12 2020: C<Module> L<Win32API::Registry|Win32API::Registry>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:22:14 2020: C<Module> L<Win32::TieRegistry|Win32::TieRegistry>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:22:16 2020: C<Module> L<DateTime::TimeZone::Local::Win32|DateTime::TimeZone::Local::Win32>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:22:26 2020: C<Module> L<DateTime::TimeZone|DateTime::TimeZone>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.39>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:22:30 2020: C<Module> L<DateTime|DateTime>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.52>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:22:34 2020: C<Module> L<Set::Infinite|Set::Infinite>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.65>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:22:42 2020: C<Module> L<DateTime::Event::Recurrence|DateTime::Event::Recurrence>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:22:59 2020: C<Module> L<YAML::LibYAML|YAML::LibYAML>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.82>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:23:02 2020: C<Module> L<JSON::Validator|JSON::Validator>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:23:06 2020: C<Module> L<Mojolicious::Plugin::OpenAPI|Mojolicious::Plugin::OpenAPI>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.35>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep  9 10:23:10 2020: C<Module> L<Yancy|Yancy>
+
+=over 4
+
+=item *
+
+C<installed into: C:/Users/LENOVO/DOCUME~1/GitHub/PERL-T~1/local\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.066>
+
+=item *
+
+C<EXE_FILES: bin/yancy>
+
+=back
+

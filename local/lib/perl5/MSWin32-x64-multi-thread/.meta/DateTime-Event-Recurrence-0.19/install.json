@@ -1,0 +1,1 @@
+{"pathname":"F/FG/FGLOCK/DateTime-Event-Recurrence-0.19.tar.gz","target":"DateTime::Event::Recurrence","provides":{"DateTime::Set::ICal":{"version":0.19,"file":"lib/DateTime/Event/Recurrence.pm"},"DateTime::Event::Recurrence":{"version":0.19,"file":"lib/DateTime/Event/Recurrence.pm"}},"dist":"DateTime-Event-Recurrence-0.19","version":0.19,"name":"DateTime::Event::Recurrence"}

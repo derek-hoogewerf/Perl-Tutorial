@@ -1,0 +1,1 @@
+{"pathname":"C/CH/CHORNY/Win32-TieRegistry-0.30.tar.gz","name":"Win32::TieRegistry","version":"0.30","dist":"Win32-TieRegistry-0.30","provides":{"Win32::TieRegistry":{"version":"0.30","file":"lib/Win32/TieRegistry.pm"},"Tie::Registry":{"version":0.15,"file":"lib/Tie/Registry.pm"}},"target":"Win32::TieRegistry"}
